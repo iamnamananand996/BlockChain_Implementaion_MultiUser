@@ -1,4 +1,4 @@
-# BlockChain_Implementaion-MultiUser-
+# BlockChain_Implementaion_MultiUser
 
 Blockchain implemented using SHA256 and RSA Algorithm
 
